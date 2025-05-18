@@ -1,4 +1,4 @@
-# COMP2045-UNNC-CPP_Programming-Coursework
+# COMP2045-UNNC-CPP_Programming-Coursework。。。。。。。。。。。。。。。。。。。
 
 ## Introduction
 In this coursework, I need to implement the game of Goofspiel in C++ OOP techniques. Besides, it is an interactive game that the user plays against computer and I need to design the strategy for the PC.
